@@ -14,22 +14,23 @@ Each competition is structured as a standalone project with its own modular code
 
 ---
 
-##  Project Structure
+## 🗂️ Project Structure
 
 Each competition is placed in its own folder with the following structure:
 
-<competition_name>/
-├── experiments/ # Training scripts, CV runners, inference
-├── notebooks/ # Jupyter notebooks for EDA, prototyping
-├── src/ # Core logic (models, datasets, utilities)
-└── submissions/ # CSV files submitted to Kaggle
+<competition_name>/  
+├── experiments/     # Training scripts, CV runners, inference  
+├── notebooks/       # Jupyter notebooks for EDA, prototyping  
+├── src/             # Core logic (models, datasets, utilities)  
+└── submissions/     # CSV files submitted to Kaggle  
 
-Example:
-CMI-Detect_Behavior_with_Sensor_Data/
-├── experiments/
-├── notebooks/
-├── src/
-└── submissions/
+Example:  
+CMI-Detect_Behavior_with_Sensor_Data/  
+├── experiments/  
+├── notebooks/  
+├── src/  
+└── submissions/  
+
 
 
 ---
