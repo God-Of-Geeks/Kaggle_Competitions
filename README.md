@@ -1,4 +1,4 @@
-# Kaggle_Competitions
+# Kaggle Competitions
 
 This repository contains my personal submissions, experiments, and pipelines for various Kaggle competitions.
 
